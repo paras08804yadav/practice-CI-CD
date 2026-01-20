@@ -1,0 +1,24 @@
+{
+  "name": "practice-ci-cd",
+  "version": "1.0.0",
+  "description": "A beginner-friendly project demonstrating a simple CI/CD pipeline using GitHub Actions, covering code push, build, test, quality checks, and automated deployment.",
+  "main": "index.js",
+  "scripts": {
+  "build": "echo Build successful",
+  "test": "echo Tests passed",
+  "lint": "echo Lint check passed",
+  "start": "node index.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paras08804yadav/practice-CI-CD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/paras08804yadav/practice-CI-CD/issues"
+  },
+  "homepage": "https://github.com/paras08804yadav/practice-CI-CD#readme"
+}
